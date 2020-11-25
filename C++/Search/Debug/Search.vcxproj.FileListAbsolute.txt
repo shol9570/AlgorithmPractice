@@ -1,0 +1,2 @@
+D:\Game Projects\GitHub\AlgorithmPractice\C++\Search\Debug\Search.exe
+D:\Game Projects\GitHub\AlgorithmPractice\C++\Search\Debug\Search.pdb
